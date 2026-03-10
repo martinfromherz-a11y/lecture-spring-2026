@@ -1,2 +1,2 @@
-# lecture-spring-2026
+# lecture spring 2026 at TU Wien
 Demo
